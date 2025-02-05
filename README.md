@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adbeel Rodriguez</h1>
-<h3 align="center">A passionate frontend developer from United State</h3>
+<h3 align="center">A passionate full stack software developer from United State</h3>
 
 - 🌱 I’m currently learning **Next.js, Express**
 
