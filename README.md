@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack software developer from United States</h3>
 <p align="center"> Full Stack Developer skilled in C#, Java, JavaScript, Python, C++, React.js, HTML5, CSS, Bootstrap, and REST APIs. Passionate about building scalable applications and continuously expanding my technical skills. Strong problem solver with expertise in both front-end and back-end development. Always eager to collaborate and deliver high-quality solutions</p>
 
-- 🌱 I’m currently learning **Next.js, Express**
+- 🌱 I’m currently learning **Next.js, Express, Tailwindcss, Framer Motion**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AMRS99?tab=repositories](https://github.com/AMRS99?tab=repositories)
 
